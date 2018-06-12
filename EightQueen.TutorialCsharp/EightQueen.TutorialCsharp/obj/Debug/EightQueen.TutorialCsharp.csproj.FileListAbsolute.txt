@@ -1,0 +1,47 @@
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe.config
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.pdb
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csprojResolveAssemblyReference.cache
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.Properties.Resources.resources
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csproj.GenerateResource.Cache
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.exe
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.pdb
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.UI.resources
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Computer.resources
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Player.resources
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe.config
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.exe
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.pdb
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.pdb
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.Properties.Resources.resources
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Computer.resources
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.UI.resources
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Player.resources
+C:\Users\Phuoc Nguyen\Desktop\New folder (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csproj.GenerateResource.Cache
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe.config
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.exe
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.pdb
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.pdb
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csprojResolveAssemblyReference.cache
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.Properties.Resources.resources
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Computer.resources
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.UI.resources
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Player.resources
+D:\DOWLOAD\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csproj.GenerateResource.Cache
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe.config
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.exe
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.pdb
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.pdb
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.Properties.Resources.resources
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Computer.resources
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.UI.resources
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.View.Player.resources
+C:\Users\Phuoc Nguyen\Desktop\EightQueen.TutorialCsharp (2)\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.csproj.GenerateResource.Cache
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\bin\Debug\EightQueen.TutorialCsharp.exe.config
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.exe
+E:\ProjectC#\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\EightQueen.TutorialCsharp\obj\Debug\EightQueen.TutorialCsharp.pdb
